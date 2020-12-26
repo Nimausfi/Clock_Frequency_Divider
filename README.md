@@ -10,4 +10,6 @@ Frequency dividers can be used both for analog and digital applications. However
 
 --------------------------------------------------------------------------------------------
 
-The input with [32 bits] let the divider know the ratio in which we want to reduce the frequency. 
+Pay attention that we have an input [32 bits] in order to let the divider know the ratio in which we want to reduce the frequency.
+\
+For example: if we have an input frequency of 100MHz, and we want to output a frequency of 1KHz, then the ratio should be 10,000.
