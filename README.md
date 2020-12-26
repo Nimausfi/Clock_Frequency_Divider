@@ -1,1 +1,1 @@
-# Frequency Divider (Clock Divider)
+# Clock Frequency Divider
