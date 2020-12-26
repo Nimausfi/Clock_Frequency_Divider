@@ -14,6 +14,6 @@ Frequency dividers can be used both for analog and digital applications. However
 
 The input [32 bits] defines the ratio in which we want to reduce the frequency.
 
-For example: if we have an input frequency of 100MHz, and we want to output a frequency of 1KHz, then the ratio should be 10,000.
+For example: if we have an input frequency of 100MHz, and we want to output a frequency of 1KHz, then the ratio should be 100,000.
 
 One **multibit counter** is used to get incremented or reset in the code.
