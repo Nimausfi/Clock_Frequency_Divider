@@ -19,5 +19,5 @@ For example: if we have an input frequency of 100MHz, and we want to output a fr
 One **multibit counter** is used to get incremented or reset in the code. (The design set the output half the ratio, and reset it at the ratio).
 
 
-Testbench (clk_divider_TB) has been provided to simulate and verify the design.
+Testbench `clk_divider_TB` has been provided to simulate and verify the design.
 
